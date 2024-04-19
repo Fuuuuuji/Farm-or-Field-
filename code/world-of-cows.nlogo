@@ -1,7 +1,3 @@
-;; ### World of Cows
-;; ### M18 - Impact Assessment of Markets and Policies on Land Use and Ecosystem Services
-;; Developed by Maria Hänsel, Thomas Schmitt, Georg Smolka & Jakob Bogenreuther
-;; Last updates made by MH on 16.11.2020
 
 extensions [gis]                 ;; The gis extension is needed to be able to load (and work with) spatial data sets in NetLogo
 breed [dairy-farms dairy-farm]   ;; Dairy farms (even though they are immobile) are represented as turtles for visualization purposes
